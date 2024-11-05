@@ -17,6 +17,6 @@ public class ExemploWhile {
     }
 
     private static double valorAleatorio(){
-        return ThreadLocaleRandom.current().nextDouble(5,10)
+        return ThreadLocaleRandom.current().nextDouble(5,10);
     }
 }
